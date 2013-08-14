@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" navBarHidden="true">
+		<Button id="signinbtn" onClick="doClick"></Button>	
+	</Window>
+</Alloy>

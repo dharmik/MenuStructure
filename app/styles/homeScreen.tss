@@ -1,0 +1,4 @@
+".container": {
+	backgroundColor:"red",
+	orientationModes:[Ti.UI.PORTRAIT]
+}

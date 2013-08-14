@@ -1,0 +1,15 @@
+{
+	"global": {},
+	"env:development": {},
+	"env:test": {},
+	"env:production": {},
+	"os:ios": {
+		"TitleColor": "#333333"
+	},
+	"os:android": {
+		"TitleColor": "#333333"
+	},
+	"dependencies": {
+		"com.drawermenu.widget" : "1.0"
+	}
+}

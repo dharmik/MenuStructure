@@ -1,0 +1,27 @@
+"#drawermenuview":{
+	height: Ti.UI.FILL,
+	top : '9%',
+	width: "50dp",
+	left : '0%'
+},
+"#mainview":{
+	backgroundColor:"red",
+	height: Ti.UI.FILL,
+	width: "50dp",
+	zIndex : 10,
+	left : '0%'
+},
+"#mainviewheader":{
+	top: "0",
+	height: "50dp",
+	width: Ti.UI.FILL,
+	backgroundColor: "#cacaca"
+},
+"#menubutton":{
+	left: "0",
+	borderWidth: 1,
+	borderColor: "#000",
+	width: "40dp",
+	height: "40dp",
+	visible:true
+}

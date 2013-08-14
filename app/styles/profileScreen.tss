@@ -1,0 +1,18 @@
+"#profileScreen": {
+	backgroundColor: "white",
+	height: '100%',
+	width: '100%'
+},
+"#topBarView": {
+	top: '0%',
+	width: '100%',
+	backgroundImage: "/images/Header.png",
+	height: '9%',
+	zIndex: 10
+},
+"#settingImg" : {
+	left: '2%',
+	width: '11%',
+	height: '70%',
+	image: "/images/Menu-icon.png"
+}

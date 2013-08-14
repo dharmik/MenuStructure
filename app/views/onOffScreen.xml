@@ -1,0 +1,8 @@
+<Alloy>
+	<View id='onOffScreen'>
+		<View id="topBarView">
+			<ImageView id="settingImg"/>
+			<Label id="flyUserLabel"/>
+		</View>
+	</View>
+</Alloy>

@@ -1,0 +1,17 @@
+".container": {
+	backgroundColor: "white",
+	align:"center"
+},
+"#header":{
+	backgroundImage:"/images/top-bar.png",
+	width:"100%",
+	height:"10%",
+	top:"0%"
+},
+"#signinbtn":{
+	top:"55%",
+	width:"55%",
+	height:"7%",
+	color:"#ffff",
+	backgroundImage:"/images/sign-in-button.png"
+}

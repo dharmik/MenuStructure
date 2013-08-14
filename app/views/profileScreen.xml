@@ -1,0 +1,7 @@
+<Alloy>
+	<View id='profileScreen'>
+		<View id="topBarView">
+			<ImageView id="settingImg"/>
+		</View>
+	</View>
+</Alloy>
