@@ -5,7 +5,7 @@
 	left : '0%'
 },
 "#mainview":{
-	backgroundColor:"red",
+	backgroundColor:"black",
 	height: Ti.UI.FILL,
 	width: "50dp",
 	zIndex : 10,

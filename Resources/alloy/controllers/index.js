@@ -20,8 +20,8 @@ function Controller() {
         top: "55%",
         width: "55%",
         height: "7%",
-        color: "#ffff",
-        backgroundImage: "/images/sign-in-button.png",
+        color: "black",
+        title: "click",
         id: "signinbtn"
     });
     $.__views.index.add($.__views.signinbtn);
